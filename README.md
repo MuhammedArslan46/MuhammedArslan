@@ -1,5 +1,11 @@
-<a href="https://medium.com/@muhammetarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammetarslan" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Muhammet ARSLAN</h1>
+<h3 align="center">A passionate frontend developer from Türkiye</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammet arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet arslan" height="30" width="40" /></a>
+<a href="https://kaggle.com/muhammetarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammetarslan" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammetarsln46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammetarsln46" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -10,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedarslan46&show_icons=true&locale=en" alt="muhammedarslan46" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedarslan46&" alt="muhammedarslan46" /></p>
+
